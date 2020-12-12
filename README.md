@@ -10,7 +10,7 @@
 npm install
 ```
 
-### Start the Server
+#### Start the Server
 
 ```
 npm start
@@ -45,3 +45,4 @@ http://localhost:5000/info?url=https://www.voot.com/movies/gultoo/638532
 ## Issues
 
 - Shows which is not Premiered in Televison will not work
+- Some Select Shows not Working
